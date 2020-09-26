@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">COVID19</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="tested">Tested</string>
+    <string name="lastupdated">Last Updated</string>
+    <string name="state">Individual State Data</string>
+    <string name="district">Individual District Data</string>
+    <string name="world">World Wide Data</string>
+    <string name="country">Country</string>
+    <string name="loading">Loading...</string>
+    <string name="about">About</string>
+    <string name="totaltest">Total Tests</string>
+    <string name="countrydata">Country Data</string>
+    <string name="states">State</string>
+    <string name="totalcases">Total Cases</string>
+    <string name="districtcity">District/City</string>
+
+    <!--Credits only-->
+    <string name="credits">\u2022 <b>covid19india.org</b> for India specific API.
+        \n\u2022 <b>corona.lmao.ninja</b> for Global API.
+        \n\u2022 <b>Flaticon</b> for social media icons.
+    </string>
+    <string name="libs">\u2022 <b>Glide</b> for showing flag images.
+        \n\u2022 <b>Eaze Graph</b> for showing Pie charts.
+        \n\u2022 <b>Circle ImageView</b> to show image in a circular frame
+    </string>
+    <string name="version">v1.0.0</string>
+    <string name="splashtitle">COVID-19 Status Tracker</string>
+    <string name="developer">Developed by Aadithya Bharadwaj</string>
+    <string name="name">Aadithya Bharadwaj</string>
+    <string name="title">NIU Computer Science Graduate Student</string>
+    <string name="sick">Are you feeling sick?</string>
+    <string name="sick1">If you feel sick with any of COVID-19 symptoms\nplease call or SMS us immediately for help.</string>
+    <string name="knowmore">Want to Know more about COVID-19, click the below button</string>
+    <string name="knowmorebutton">More</string>
+    <string name="moreinfo">COVID 19 Information</string>
+    <string name="prevention">Prevention</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="vaccine">Treatment and Vaccine/Cure</string>
+    <string name="generalinfo">General Information</string>
+    <string name="covidinfo">\n -> Coronavirus (COVID-19) is an illness caused by a virus that can spread from person to person
+        \n\n -> The virus that causes COVID-19 is a new coronavirus that has spread throughout the world. \n\n -> You can become
+        infected by coming into close contact (about 6 feet or two arm lengths) with a person who has COVID-19. COVID-19 is primarily
+        spread from person to person. \n\n -> You can become infected from respiratory droplets when an infected person coughs,
+        sneezes, or talks. \n\n -> You may also be able to get it by touching a surface or object that has the virus on it, and
+        then by touching your mouth, nose, or eyes. </string>
+    <string name="symptoms1">COVID-19 affects different people in different ways. Infected people have had a wide range of symptoms
+        reported – from mild symptoms to severe illness. \n\nSymptoms may appear 2-14 days after exposure to the virus. People with
+        these symptoms may have COVID-19:\n\n* Fever or chills \t* Cough \t* Fatigue \t* Headache
+        \n* Shortness of breath or difficulty breathing \n* Sore throat \t* Diarrhea \t* Nausea or vomiting
+        \n* Muscle or body aches \t* New loss of taste or smell \t* Congestion or runny nose \n\n\nLook for emergency warning signs for COVID-19.
+        If someone is showing any of these signs, seek emergency medical care immediately:\n\n*Trouble breathing \t* New confusion \n* Persistent pain or pressure in the chest
+        \n* Inability to wake or stay awake \n* Bluish lips or face \n\n\n Call your medical provider for any other symptoms that are severe or concerning to you.
+    \n\n\n\ There have been also cases where patients are Asymptomatic as well.</string>
+    <string name="prevention1">- Put distance between yourself and other people (at least 6 feet).</string>
+    <string name="prevention2">- Clean your hands often, either with soap and water for 20 seconds or a hand sanitizer that contains at least 60% alcohol.</string>
+    <string name="prevention3">- Masks may help prevent people who have COVID-19 from spreading the virus to others. Cover your mouth and nose with a mask when around others.</string>
+    <string name="prevention4">- Avoid close contact with people who are sick.\n\n- Clean and disinfect frequently touched objects and surfaces daily.\n\n- Cover your cough or sneeze with a tissue, then throw the tissue in the trash.</string>
+    <string name="treatment">#Testing is underway, but there are no specific cure or vaccine identified as of this moment. \n\n\n# Get rest and stay hydrated. Take over-the-counter medicines, such as acetaminophen, to help you feel better.
+    \n\n# If you have a medical appointment, notify your healthcare provider ahead of time that you have or may have COVID-19.
+    \n\n# Stay in a specific room and away from other people in your home. If possible, use a separate bathroom. If you must be around others, wear a mask.
+    Stay home except to get medical care. \n\n# Your local health authorities may give instructions on checking your symptoms and reporting information.
+    </string>
+
+
+</resources>

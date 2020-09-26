@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFAB40</color>
+    <color name="colorPrimaryDark">#FF9100</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cardBackground">#FE1D1D2f</color>
+    <color name="green">#7EC544</color>
+    <color name="yellow">#FBC233</color>
+    <color name="red">#F6404F</color>
+    <color name="blue">#78D8F3</color>
+    <color name="pink">#F37585</color>
+    <color name="orange">#FF7100</color>
+    <color name="bluepie">#007afe</color>
+    <color name="redpie">#F6404F</color>
+    <color name="greenpie">#08a045</color>
+    <color name="gray">#c4c4c4</color>
+    <color name="bg">#EEEEEE</color>
+    <color name="magenta">#F90B94</color>
+    <color name="purple">#7F08D1 </color>
+    <color name="white">#FFFFFF </color>
+
+    <color name="card1">#AF87F9</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#B8D7F5</color>
+
+</resources>
